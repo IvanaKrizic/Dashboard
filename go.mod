@@ -1,4 +1,4 @@
-module github.com/IvanaKrizic/GoWebApp
+module github.com/IvanaKrizic/Dashboard
 
 go 1.15
 

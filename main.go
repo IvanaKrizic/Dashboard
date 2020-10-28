@@ -8,7 +8,6 @@ import (
 func main() {
 	config.InitDb()
 	config.Migrate()
-	config.SeedData()
 
 	router := routes.SetupRouter()
 	router.Run()
